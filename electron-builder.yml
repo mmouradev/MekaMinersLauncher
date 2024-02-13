@@ -1,8 +1,8 @@
-appId: 'helioslauncher'
+appId: 'fglauncher'
 productName: 'Fraternidade Gamer - Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2022 Daniel Scalzi'
+copyright: 'Copyright © 2024 Fraternidade Gamer'
 
 asar: true
 compression: 'maximum'
