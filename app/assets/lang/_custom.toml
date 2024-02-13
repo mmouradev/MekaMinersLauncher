@@ -5,6 +5,7 @@ title = "Fraternidade Gamer - Launcher"
 
 [ejs.landing]
 mediaDiscordURL = "https://discord.gg/GszAYMK4sP"
+mediaYoutubeURL = "https://www.youtube.com/@fraternidadegamer"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
