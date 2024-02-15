@@ -1,6 +1,6 @@
 appId: 'fglauncher'
 productName: 'Fraternidade Gamer - Launcher'
-artifactName: '${productName}-setup-${version}.${ext}'
+artifactName: '${productName}-${version}.${ext}'
 
 copyright: 'Copyright © 2024 Fraternidade Gamer'
 
@@ -33,16 +33,16 @@ mac:
       arch:
         - 'x64'
         - 'arm64'
-  artifactName: '${productName}-setup-${version}-${arch}.${ext}'
+  artifactName: '${productName}-${version}-${arch}.${ext}'
   category: 'public.app-category.games'
 
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'Daniel Scalzi'
-  vendor: 'Daniel Scalzi'
-  synopsis: 'Modded Minecraft Launcher'
-  description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.'
+  maintainer: 'Matheus Souza Moura'
+  vendor: 'Matheus Souza Moura'
+  synopsis: 'Fraternidade Gamer Launcher'
+  description: 'Launcher oficial dos servidores Fraternidade Gamer.'
   category: 'Game'
 
 
