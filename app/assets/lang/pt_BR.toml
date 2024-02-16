@@ -203,9 +203,9 @@ checkConsoleForDetails = "Verifique o console para mais detalhes ou entre em con
 checking = "Checking for News"
 
 [js.landing.discord]
-loading = "Loading game.."
-joining = "Sailing to Westeros!"
-joined = "Exploring the Realm!"
+loading = "Abrindo o jogo.."
+joining = "Entrando no Cobblemon Fraternidade Gamer!"
+joined = "Explorando o mundo!"
 
 [js.overlay]
 dismiss = "Fechar"
