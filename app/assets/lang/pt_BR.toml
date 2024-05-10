@@ -34,7 +34,7 @@ cancelButton = "Cancelar"
 [ejs.overlay]
 serverSelectHeader = "Servidores Disponiveis"
 serverSelectConfirm = "Selecionar"
-serverSelectCancel = "Canelar"
+serverSelectCancel = "Cancelar"
 accountSelectHeader = "Selecione uma conta"
 accountSelectConfirm = "Selecionar"
 accountSelectCancel = "Cancelar"
@@ -204,7 +204,7 @@ checking = "Checking for News"
 
 [js.landing.discord]
 loading = "Abrindo o jogo.."
-joining = "Entrando no Cobblemon Fraternidade Gamer!"
+joining = "Entrando no MekaMiners Brasil!"
 joined = "Explorando o mundo!"
 
 [js.overlay]

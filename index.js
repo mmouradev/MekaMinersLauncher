@@ -333,7 +333,7 @@ function getPlatformIcon(filename){
         case 'darwin':
         case 'linux':
         default:
-            ext = 'png'
+            ext = 'gif'
             break
     }
 
