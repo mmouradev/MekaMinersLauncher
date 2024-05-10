@@ -1,8 +1,8 @@
 appId: 'fglauncher'
-productName: 'Fraternidade Gamer - Launcher'
+productName: 'MekaMiners Brasil - Launcher'
 artifactName: '${productName}-${version}.${ext}'
 
-copyright: 'Copyright © 2024 Fraternidade Gamer'
+copyright: 'Copyright © 2024 MekaMiners Brasil'
 
 asar: true
 compression: 'maximum'
@@ -41,8 +41,8 @@ linux:
   target: 'AppImage'
   maintainer: 'Matheus Souza Moura'
   vendor: 'Matheus Souza Moura'
-  synopsis: 'Fraternidade Gamer Launcher'
-  description: 'Launcher oficial dos servidores Fraternidade Gamer.'
+  synopsis: 'MekaMiners Brasil Launcher'
+  description: 'Launcher oficial dos servidores MekaMiners Brasil.'
   category: 'Game'
 
 
