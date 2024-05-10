@@ -21,7 +21,7 @@ loginForgotPasswordText = "Esqueceu sua senha?"
 loginRememberMeText = "Manter login?"
 loginButtonText = "LOGIN"
 loginNeedAccountLink = "https://minecraft.net/store/minecraft-java-edition/"
-loginNeedAccountText = "Precisa de uma conta?"
+loginNeedAccountText = "Precisa de uma conta? "
 loginPasswordDisclaimer1 = "Sua senha é enviada diretamente para a Mojang."
 loginPasswordDisclaimer2 = "{appName} is not affiliated with Mojang AB."
 
