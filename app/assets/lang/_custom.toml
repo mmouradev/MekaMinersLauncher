@@ -4,12 +4,12 @@
 title = "MekaMiners Brasil - Launcher"
 
 [ejs.landing]
-mediaDiscordURL = "https://discord.gg/mekaminers-reloaded-c-579301288156594186"
+mediaDiscordURL = "https://discord.gg/BPYSP5YsaY"
 mediaYoutubeURL = "https://www.youtube.com/@EuSouMercy"
 
 [ejs.settings]
 sourceGithubLink = ""
-supportLink = "https://discord.gg/mekaminers-reloaded-c-579301288156594186"
+supportLink = "https://discord.gg/BPYSP5YsaY"
 
 [ejs.welcome]
 welcomeHeader = "BEM-VINDOS AO MEKAMINERS BRASIL"
