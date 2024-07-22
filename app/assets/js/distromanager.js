@@ -6,7 +6,7 @@ const ConfigManager = require('./configmanager')
 
 // exports.REMOTE_DISTRO_URL = 'http://mc.westeroscraft.com/WesterosCraftLauncher/distribution.json'
 
-exports.REMOTE_DISTRO_URL = 'http://167.234.229.49/distribution.json'
+exports.REMOTE_DISTRO_URL = 'http://launcher.mekaminers.net/distribution.json'
 
 const api = new DistributionAPI(
     ConfigManager.getLauncherDirectory(),
