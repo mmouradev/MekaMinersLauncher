@@ -1,4 +1,4 @@
-appId: 'fglauncher'
+appId: 'mekaminerslauncher'
 productName: 'MekaMiners Brasil - Launcher'
 artifactName: '${productName}-${version}.${ext}'
 
